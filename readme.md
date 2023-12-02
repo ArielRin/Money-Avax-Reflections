@@ -1,5 +1,11 @@
 # BabyMoneyAvaxRewards Solidity Contract
 
+
+## Token Overview
+
+Welcome to the official readme for our MoneyAvaxRewrds Token contract! This document aims to provide you with a comprehensive understanding of our tokenomics and the features that make our token unique.
+
+
 ## Tokenomics
 
 **Token Supply:** 1 Quadrillion (1,000,000,000,000,000)
