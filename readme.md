@@ -1,4 +1,4 @@
-# Token Contract Readme
+# Money Avax Rewards Token 
 
 ## Project Overview
 
