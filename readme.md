@@ -54,10 +54,10 @@ The BabyMoneyAvaxRewards contract is a Solidity smart contract developed for the
 ### Key Features
 
 1. **Reflections in WETHe:**
-   - Holders receive 5% of each transaction in WETHe through an auto-claim feature.
+   - Holders receive 5% of each transaction in WETHe through an auto-claim feature. Wrapped Ethereum on Avalanche (WETH.e) is a cross-chain asset that represents Ethereum (ETH) on the Avalanche blockchain. WETH.e facilitates seamless interoperability between the Ethereum and Avalanche ecosystems, allowing users to transfer and use ETH on Avalanche while benefiting from the network's high speed and low transaction fees. This wrapped token enhances liquidity and accessibility, enabling users to leverage the best features of both blockchains for a more versatile and efficient decentralized finance experience.
 
 2. **Liquidity Addition:**
-   - 2% of each transaction contributes to the liquidity pool to enhance trading liquidity.
+   - 2% of each transaction contributes to the liquidity pool to enhance trading liquidity. Adding to liquidity strengthens token community growth and stability by deepening market depth. This attracts more traders, reduces price volatility, and fosters a robust ecosystem, encouraging long-term investor confidence and participation.
 
 3. **Marketing Wallet:**
    - 1% of each transaction is allocated to the marketing wallet for promotional activities. The marketing wallet receives its payment through the swapAndSendToFee function. This function is called during token transfers and is responsible for swapping a portion of the tokens to WETHe (wrapped Ethereum on Avax) and sending the resulting WETHe tokens to the marketing wallet.
@@ -73,12 +73,6 @@ The BabyMoneyAvaxRewards contract is a Solidity smart contract developed for the
 ### Security Measures
 
 - **Blacklist:** Certain addresses can be blacklisted, preventing them from participating in transactions.
-
-### Fees Configuration
-
-- **WETHe Rewards Fee:** 5%
-- **Liquidity Fee:** 2%
-- **Marketing Fee:** 1%
 
 ### Auto-Claim and Gas Configuration
 
