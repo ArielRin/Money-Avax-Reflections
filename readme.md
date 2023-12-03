@@ -5,6 +5,9 @@
 
 Welcome to the official readme for our MoneyAvaxRewrds Token contract! This document aims to provide you with a comprehensive understanding of our tokenomics and the features that make our token unique.
 
+BSCTestnet Successfully Deploy at 0xBB6047eBBf957FBBD59B48C0F5F451cC6ed87b20
+Fuji C-Chain Test Alpha Deploy https://testnet.avascan.info/blockchain/c/token/0x46508bCbEa60573D66eAA7040eeFc5A074095c4e/contract
+
 ## Getting Started
 
 To get started with our token, follow these steps:
