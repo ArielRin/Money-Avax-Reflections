@@ -1,0 +1,47 @@
+{
+	"compiler": {
+		"version": "0.6.12+commit.27d51765"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"details": "Math operations for int256 with overflow safety checks.",
+			"kind": "dev",
+			"methods": {},
+			"title": "SafeMathInt",
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"SafeMathInt.sol": "SafeMathInt"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": true,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"SafeMathInt.sol": {
+			"keccak256": "0xcd8b4ef427f18356a0d9456b15d9decbd1fad699cb66cfb5447493cf244b79ce",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://0545e940cc0ee3ec34e2d8b4f5815fa09aa84da9be30728a1cce3ccc44101474",
+				"dweb:/ipfs/QmdFE4A5HzhXUxVPBVFj4q2LxnmFJAJDQhwMQc64zFrtdD"
+			]
+		}
+	},
+	"version": 1
+}
